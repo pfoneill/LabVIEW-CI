@@ -1,0 +1,32 @@
+# Folders
+[Tt]emp/
+
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects
+*.so
+*.so.*
+*.dylib
+
+# Metadata
+*.aliases
+*.lvlps
+
+# Runtime
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.cache/
+
+# Jenkins Build and Test Artifacts
+*.htm
+*.rsl
+[Bb]uilds/
+MassCompileOutput/
+VIAnalyzerOutput/
+
+# PDFs
+*.pdf
